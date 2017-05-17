@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="c26303" href="./Heating_Mode.html" title="org.universAAL.ontology.hvac.Heating_Mode" alt="" coords="15,113,121,138"/>
+<area shape="rect" id="node1" href="./Heating_Mode.html" title="&lt;TABLE&gt;" alt="" coords="5,101,131,149"/>
+<area shape="rect" id="c26304" href="./Heating.html" title="org.universAAL.ontology.hvac.Heating" alt="" coords="498,209,563,234"/>
+<area shape="rect" id="node2" href="./Heating.html" title="&lt;TABLE&gt;" alt="" coords="488,197,573,245"/>
+<area shape="rect" id="c26305" href="./HvacOntology.html" title="org.universAAL.ontology.hvac.HvacOntology" alt="" coords="745,17,849,42"/>
+<area shape="rect" id="node3" href="./HvacOntology.html" title="&lt;TABLE&gt;" alt="" coords="735,5,860,53"/>
+<area shape="rect" id="c26306" href="./Air_Conditioning_Mode.html" title="org.universAAL.ontology.hvac.Air_Conditioning_Mode" alt="" coords="165,113,320,138"/>
+<area shape="rect" id="node4" href="./Air_Conditioning_Mode.html" title="&lt;TABLE&gt;" alt="" coords="155,101,331,149"/>
+<area shape="rect" id="c26307" href="./Target_Temperature.html" title="org.universAAL.ontology.hvac.Target_Temperature" alt="" coords="530,113,667,138"/>
+<area shape="rect" id="node5" href="./Target_Temperature.html" title="&lt;TABLE&gt;" alt="" coords="520,101,677,149"/>
+<area shape="rect" id="c26308" href="./Air_Conditioning.html" title="org.universAAL.ontology.hvac.Air_Conditioning" alt="" coords="607,209,723,234"/>
+<area shape="rect" id="node6" href="./Air_Conditioning.html" title="&lt;TABLE&gt;" alt="" coords="597,197,733,245"/>
+<area shape="rect" id="c26309" href="./Mode.html" title="org.universAAL.ontology.hvac.Mode" alt="" coords="216,17,269,42"/>
+<area shape="rect" id="node7" href="./Mode.html" title="&lt;TABLE&gt;" alt="" coords="205,5,280,53"/>
+<area shape="rect" id="c26310" href="./Ventilation_Mode.html" title="org.universAAL.ontology.hvac.Ventilation_Mode" alt="" coords="365,113,486,138"/>
+<area shape="rect" id="node8" href="./Ventilation_Mode.html" title="&lt;TABLE&gt;" alt="" coords="355,101,496,149"/>
+<area shape="rect" id="c26311" href="./Hvac.html" title="org.universAAL.ontology.hvac.Hvac" alt="" coords="649,17,701,42"/>
+<area shape="rect" id="node9" href="./Hvac.html" title="&lt;TABLE&gt;" alt="" coords="639,5,711,53"/>
+<area shape="rect" id="c26312" href="./Ventilation.html" title="org.universAAL.ontology.hvac.Ventilation" alt="" coords="711,113,793,138"/>
+<area shape="rect" id="node10" href="./Ventilation.html" title="&lt;TABLE&gt;" alt="" coords="701,101,803,149"/>
+</map>

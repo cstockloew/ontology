@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c156890" href="./SimpleKey.html" title="org.universAAL.ontology.cryptographic.SimpleKey" alt="" coords="15,209,99,234"/>
+<area shape="rect" id="node1" href="./SimpleKey.html" title="&lt;TABLE&gt;" alt="" coords="5,197,109,245"/>
+<area shape="rect" id="c156898" href="./EncryptionKey.html" title="org.universAAL.ontology.cryptographic.EncryptionKey" alt="" coords="65,113,170,138"/>
+<area shape="rect" id="node2" href="./EncryptionKey.html" title="&lt;TABLE&gt;" alt="" coords="55,101,180,149"/>
+<area shape="rect" id="c156899" href="./KeyRing.html" title="org.universAAL.ontology.cryptographic.KeyRing" alt="" coords="143,209,214,234"/>
+<area shape="rect" id="node3" href="./KeyRing.html" title="&lt;TABLE&gt;" alt="" coords="133,197,224,245"/>
+<area shape="rect" id="c157217" href="http://java.sun.com/j2se/1.4.2/docs/api/org/universAAL/middleware/owl/ManagedIndividual.html" title="org.universAAL.middleware.owl.ManagedIndividual" alt="" coords="53,17,182,42"/>
+<area shape="rect" id="node5" href="http://java.sun.com/j2se/1.4.2/docs/api/org/universAAL/middleware/owl/ManagedIndividual.html" title="&lt;TABLE&gt;" alt="" coords="43,5,192,53"/>
+</map>

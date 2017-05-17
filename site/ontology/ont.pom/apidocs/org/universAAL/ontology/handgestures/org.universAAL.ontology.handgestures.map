@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c22052" href="./HandGestureService.html" title="org.universAAL.ontology.handgestures.HandGestureService" alt="" coords="16,17,157,42"/>
+<area shape="rect" id="node1" href="./HandGestureService.html" title="&lt;TABLE&gt;" alt="" coords="5,5,168,53"/>
+<area shape="rect" id="c22053" href="./HandgesturesOntology.html" title="org.universAAL.ontology.handgestures.HandgesturesOntology" alt="" coords="202,17,355,42"/>
+<area shape="rect" id="node2" href="./HandgesturesOntology.html" title="&lt;TABLE&gt;" alt="" coords="192,5,365,53"/>
+<area shape="rect" id="c22054" href="./HandGestureType.html" title="org.universAAL.ontology.handgestures.HandGestureType" alt="" coords="399,17,526,42"/>
+<area shape="rect" id="node3" href="./HandGestureType.html" title="&lt;TABLE&gt;" alt="" coords="389,5,536,53"/>
+<area shape="rect" id="c22055" href="./HandGestures.html" title="org.universAAL.ontology.handgestures.HandGestures" alt="" coords="570,17,675,42"/>
+<area shape="rect" id="node4" href="./HandGestures.html" title="&lt;TABLE&gt;" alt="" coords="560,5,685,53"/>
+</map>

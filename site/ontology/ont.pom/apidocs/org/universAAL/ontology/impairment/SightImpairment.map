@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="c324530" href="./Astigmatism.html" title="org.universAAL.ontology.impairment.Astigmatism" alt="" coords="16,209,109,234"/>
+<area shape="rect" id="node1" href="./Astigmatism.html" title="&lt;TABLE&gt;" alt="" coords="5,197,120,245"/>
+<area shape="rect" id="c324532" href="./NearSightedness.html" title="org.universAAL.ontology.impairment.NearSightedness" alt="" coords="154,209,275,234"/>
+<area shape="rect" id="node2" href="./NearSightedness.html" title="&lt;TABLE&gt;" alt="" coords="144,197,285,245"/>
+<area shape="rect" id="c324534" href="./ColorBlindness.html" title="org.universAAL.ontology.impairment.ColorBlindness" alt="" coords="320,209,429,234"/>
+<area shape="rect" id="node3" href="./ColorBlindness.html" title="&lt;TABLE&gt;" alt="" coords="309,197,440,245"/>
+<area shape="rect" id="c324537" href="./LightSensitivity.html" title="org.universAAL.ontology.impairment.LightSensitivity" alt="" coords="475,209,584,234"/>
+<area shape="rect" id="node4" href="./LightSensitivity.html" title="&lt;TABLE&gt;" alt="" coords="464,197,595,245"/>
+<area shape="rect" id="c324538" href="./SightImpairment.html" title="org.universAAL.ontology.impairment.SightImpairment" alt="" coords="317,113,433,138"/>
+<area shape="rect" id="node5" href="./SightImpairment.html" title="&lt;TABLE&gt;" alt="" coords="307,101,443,149"/>
+<area shape="rect" id="c324539" href="./FarSightedness.html" title="org.universAAL.ontology.impairment.FarSightedness" alt="" coords="629,209,741,234"/>
+<area shape="rect" id="node6" href="./FarSightedness.html" title="&lt;TABLE&gt;" alt="" coords="619,197,752,245"/>
+<area shape="rect" id="c324705" href="http://java.sun.com/j2se/1.4.2/docs/api/org/universAAL/middleware/ui/owl/AccessImpairment.html" title="org.universAAL.middleware.ui.owl.AccessImpairment" alt="" coords="310,17,439,42"/>
+<area shape="rect" id="node11" href="http://java.sun.com/j2se/1.4.2/docs/api/org/universAAL/middleware/ui/owl/AccessImpairment.html" title="&lt;TABLE&gt;" alt="" coords="300,5,449,53"/>
+</map>

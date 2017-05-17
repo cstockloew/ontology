@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c18991" href="./FurnitureOntology.html" title="org.universAAL.ontology.furniture.FurnitureOntology" alt="" coords="15,17,139,42"/>
+<area shape="rect" id="node1" href="./FurnitureOntology.html" title="&lt;TABLE&gt;" alt="" coords="5,5,149,53"/>
+<area shape="rect" id="c18992" href="./FurnitureType.html" title="org.universAAL.ontology.furniture.FurnitureType" alt="" coords="184,17,285,42"/>
+<area shape="rect" id="node2" href="./FurnitureType.html" title="&lt;TABLE&gt;" alt="" coords="173,5,296,53"/>
+<area shape="rect" id="c18993" href="./Furniture.html" title="org.universAAL.ontology.furniture.Furniture" alt="" coords="331,17,403,42"/>
+<area shape="rect" id="node3" href="./Furniture.html" title="&lt;TABLE&gt;" alt="" coords="320,5,413,53"/>
+</map>

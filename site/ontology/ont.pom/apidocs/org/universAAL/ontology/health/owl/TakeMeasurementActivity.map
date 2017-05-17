@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="c351680" href="./HeartRateMeasurementTreatment.html" title="org.universAAL.ontology.health.owl.HeartRateMeasurementTreatment" alt="" coords="16,209,235,234"/>
+<area shape="rect" id="node1" href="./HeartRateMeasurementTreatment.html" title="&lt;TABLE&gt;" alt="" coords="5,197,245,245"/>
+<area shape="rect" id="c351684" href="./MeasuredPhysicalActivity.html" title="org.universAAL.ontology.health.owl.MeasuredPhysicalActivity" alt="" coords="279,209,451,234"/>
+<area shape="rect" id="node2" href="./MeasuredPhysicalActivity.html" title="&lt;TABLE&gt;" alt="" coords="269,197,461,245"/>
+<area shape="rect" id="c351687" href="./BloodPressureMeasurementTreatment.html" title="org.universAAL.ontology.health.owl.BloodPressureMeasurementTreatment" alt="" coords="495,209,739,234"/>
+<area shape="rect" id="node3" href="./BloodPressureMeasurementTreatment.html" title="&lt;TABLE&gt;" alt="" coords="485,197,749,245"/>
+<area shape="rect" id="c351700" href="./Treatment.html" title="org.universAAL.ontology.health.owl.Treatment" alt="" coords="451,17,531,42"/>
+<area shape="rect" id="node4" href="./Treatment.html" title="&lt;TABLE&gt;" alt="" coords="440,5,541,53"/>
+<area shape="rect" id="c351701" href="./TakeMeasurementActivity.html" title="org.universAAL.ontology.health.owl.TakeMeasurementActivity" alt="" coords="404,113,577,138"/>
+<area shape="rect" id="node5" href="./TakeMeasurementActivity.html" title="&lt;TABLE&gt;" alt="" coords="393,101,588,149"/>
+<area shape="rect" id="c351702" href="./WeightMeasurementTreatment.html" title="org.universAAL.ontology.health.owl.WeightMeasurementTreatment" alt="" coords="784,209,984,234"/>
+<area shape="rect" id="node6" href="./WeightMeasurementTreatment.html" title="&lt;TABLE&gt;" alt="" coords="773,197,995,245"/>
+</map>
